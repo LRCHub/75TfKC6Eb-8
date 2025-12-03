@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ABCD",
+  "base_artist": "NAYEON",
+  "createdAt": "2025-12-03T07:04:23.320126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sun Saathiya (From \"ABCD 2\")",
+      "artist": "Divya Kumar feat. Priya Saraiya",
+      "has_synced": true,
+      "path": "select/01_Sun_Saathiya_(From__ABCD_2_)_Divya_Kumar_feat._Priya_Saraiya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sun Saathiya (From \"ABCD 2\")",
+      "artist": "Divya Kumar, Priya Saraiya & Sachin-Jigar",
+      "has_synced": true,
+      "path": "select/02_Sun_Saathiya_(From__ABCD_2_)_Divya_Kumar,_Priya_Saraiya_&_Sachin-Jigar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ABCD - Pilule rouge",
+      "artist": "GIMS",
+      "has_synced": true,
+      "path": "select/03_ABCD_-_Pilule_rouge_GIMS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ABCD (Pilule Rouge)",
+      "artist": "Maitre Gims",
+      "has_synced": true,
+      "path": "select/04_ABCD_(Pilule_Rouge)_Maitre_Gims.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ABCD Ey (Ich hasse es so)",
+      "artist": "DUEJA",
+      "has_synced": true,
+      "path": "select/05_ABCD_Ey_(Ich_hasse_es_so)_DUEJA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ABCD (Friend Zone)",
+      "artist": "PnB Rock",
+      "has_synced": true,
+      "path": "select/06_ABCD_(Friend_Zone)_PnB_Rock.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Abcd",
+      "artist": "Radiorama",
+      "has_synced": false,
+      "path": "select/07_Abcd_Radiorama.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ABCD",
+      "artist": "Zeamsone feat. White 2115",
+      "has_synced": true,
+      "path": "select/08_ABCD_Zeamsone_feat._White_2115.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Abcd (feat. White 2115)",
+      "artist": "Zeamsone",
+      "has_synced": true,
+      "path": "select/09_Abcd_(feat._White_2115)_Zeamsone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bezubaan (From \"ABCD - Any Body Can Dance\")",
+      "artist": "Mohit Chauhan, Sachin-Jigar, Deane Sequeira, Priya Panchal & Tanvi Shah",
+      "has_synced": true,
+      "path": "select/10_Bezubaan_(From__ABCD_-_Any_Body_Can_Dance_)_Mohit_Chauhan,_Sachin-Jigar,_Deane_Sequeira,_Priya_Panchal_&_Tanvi_Shah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chunar (From \"abcd 2\")",
+      "artist": "Asees Kaur",
+      "has_synced": true,
+      "path": "select/11_Chunar_(From__abcd_2_)_Asees_Kaur.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Abcd",
+      "artist": "Gims",
+      "has_synced": true,
+      "path": "select/12_Abcd_Gims.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ABCD - Pilule rouge",
+      "artist": "GIMS",
+      "has_synced": true,
+      "path": "select/13_ABCD_-_Pilule_rouge_GIMS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sadda Dil Vi Tu (Ga Ga Ga Ganpati) [From \"ABCD - Any Body Can Dance\"]",
+      "artist": "Hard Kaur",
+      "has_synced": true,
+      "path": "select/14_Sadda_Dil_Vi_Tu_(Ga_Ga_Ga_Ganpati)_[From__ABCD_-_Any_Body_Can_Dance_]_Hard_Kaur.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sadda Dil Vi Tu Ga Ga Ga Ganpati from ABCD-Any Body Can Dance 2013",
+      "artist": "jaimin prajapati",
+      "has_synced": true,
+      "path": "select/15_Sadda_Dil_Vi_Tu_Ga_Ga_Ga_Ganpati_from_ABCD-Any_Body_Can_Dance_2013_jaimin_prajapati.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ABCD (Pilule rouge)",
+      "artist": "Maître Gims",
+      "has_synced": true,
+      "path": "select/16_ABCD_(Pilule_rouge)_Maître_Gims.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Abcd",
+      "artist": "Babu",
+      "has_synced": false,
+      "path": "select/17_Abcd_Babu.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ABCD (Italy Remix)",
+      "artist": "Radiorama",
+      "has_synced": false,
+      "path": "select/18_ABCD_(Italy_Remix)_Radiorama.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ABCD",
+      "artist": "NAYEON",
+      "has_synced": false,
+      "path": "select/pl_01_ABCD_NAYEON.txt"
+    }
+  ]
+}
